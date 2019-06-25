@@ -2,8 +2,4 @@ hello world!
 secondchange
 
 
-<<<<<<< HEAD
-10th change
-=======
-8th change
->>>>>>> a68059067b2660bddbb8c2c23c5d0155d3555758
+11 th change
